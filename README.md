@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nour Mamoun
+# 👋 Hello there, I'm Nour Mamoun
 
 🎯 **Full Stack Developer** | 💻 Passionate about building modern web applications  
 
