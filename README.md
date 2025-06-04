@@ -20,7 +20,7 @@ I'm a highly motivated **Full Stack Developer** with hands-on experience across 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJsZ2RyODM2bnF6MTNza25mZHViaGJrY2xxb2F4ejdmc2FkZW51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJsZ2RyODM2bnF6MTNza25mZHViaGJrY2xxb2F4ejdmc2FkZW51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
 
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
