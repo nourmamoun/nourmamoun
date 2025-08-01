@@ -54,7 +54,7 @@ I'm a highly motivated **Full Stack Developer** with hands-on experience across 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nour-mamoun-96a57421a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nour-mamoun)
 - ✉️ Email: nourmamoun@gmail.com
 
 ---
